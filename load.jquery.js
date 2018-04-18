@@ -34,4 +34,4 @@
 			callback(jQuery);
 		}
 	}
-}();
+}());
